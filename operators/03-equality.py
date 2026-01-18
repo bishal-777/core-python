@@ -1,0 +1,5 @@
+print(10 != "abc")
+print(False == False)
+print("Python" == "python")
+print(10 == 10 == 10) 
+print(10 == 10 == 10 ==9.9) 
